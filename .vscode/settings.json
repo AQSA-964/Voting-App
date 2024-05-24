@@ -1,0 +1,4 @@
+{
+  "dotenv.enableAutocloaking": false,
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
